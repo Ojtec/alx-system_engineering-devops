@@ -1,1 +1,1 @@
-script of directory
+Display the contents list
